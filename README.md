@@ -1,5 +1,12 @@
 # Dinosaurus_Island_Character
 
+## Coursera - RNN Programming Assignment
+
+### Disclaimer:
+The given solutions in this project are only for reference purpose.
+
+### Description of experiment
+
 Welcome to Dinosaurus Island! 65 million years ago, dinosaurs existed, and in this assignment, they have returned.
 
 We are in charge of a special task: Leading biology researchers are creating new breeds of dinosaurs and bringing them to life on earth, 
@@ -19,3 +26,8 @@ By the time we complete this assignment, we'll be able to:
 3. Sample novel sequences in an RNN <br>
 4. Explain the vanishing/exploding gradient problem in RNNs <br>
 5. Apply gradient clipping as a solution for exploding gradients <br>
+
+### Acknowledgements
+
+https://www.coursera.org/learn/nlp-sequence-models <br>
+https://www.deeplearning.ai/program/deep-learning-specialization/
